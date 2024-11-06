@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/main/database/assets/post/banner.png"  />
+  <img src="https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/assets/post/banner.png"  />
 </div>
 
 <p>
@@ -9,14 +9,14 @@ This is a MIUI/HyperOS Mod project designed to bring a sleek and minimalistic us
 📝 RELEASE CHANGELOGS
 </h3>
 <pre>
-18 Oct 2024 - GRIFFIN EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/griffin_changelog.txt">CHANGELOG</a><br>
+18 Oct 2024 - GRIFFIN EDITION - <a href="https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/changelogs/griffin_changelog.txt">CHANGELOG</a><br>
 SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 </h3>
 
-Null Nov 2024 - FUSION EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/fusion_changelog.txt">CHANGELOG</a><br>
+Null Nov 2024 - FUSION EDITION - <a href="https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/changelogs/fusion_changelog.txt">CHANGELOG</a><br>
 SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
 MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
 ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
