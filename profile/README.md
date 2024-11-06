@@ -13,7 +13,14 @@ This is a MIUI/HyperOS Mod project designed to bring a sleek and minimalistic us
 SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
-FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASE (Not Yet)</a>
+FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
+
+
+Null Nov 2024 - FUSION EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/fusion_changelog.txt">CHANGELOG</a><br>
+SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
+MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
+ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
+FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
 
 </pre>
 
