@@ -14,7 +14,7 @@ SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 MIATOLL       - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 ALIOTH/IN     - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
 FOG/RAIN/WIND - <a href="https://t.me/RedmiN11Pak">RELEASED</a>
-
+</h3>
 
 Null Nov 2024 - FUSION EDITION - <a href="https://raw.githubusercontent.com/Fazokhan/NEXTOS_PROJECT/refs/heads/main/changelogs/fusion_changelog.txt">CHANGELOG</a><br>
 SPES/SPESN    - <a href="https://t.me/RedmiN11Pak">RELEASE (UPCOMING)</a>
