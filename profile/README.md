@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/assets/post/banner.png"  />
+  <img src="https://raw.githubusercontent.com/NEXT-OS-HYPER-OS-MOD/server-database/refs/heads/main/database/assets/post/banner.png"  />
 </div>
 
 <p>
